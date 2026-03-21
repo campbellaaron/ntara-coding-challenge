@@ -1,10 +1,13 @@
 # Ntara Coding Challenge 
 
 ## Project Overview
-Custom WP theme built for Ntara as a coding challenge. Implements a storefront that has filtering, serach, sorting, and pagination with a custom post type and taxonomy. Was started in Full Site Editor for structure and theme compatibility, but the project requirements worked better in standard WP templateing. 
+Custom WP theme built for Ntara as a coding challenge. Implements a storefront that has filtering, search, sorting, and pagination with a custom post type and taxonomy. Was started in Full Site Editor for structure and theme compatibility, but the project requirements worked better in standard WP templating. 
+
+## Live Demo
+[TasteWP Ntara Coding Challenge](https://dazzlingmap.s5-tastewp.com/)
 
 ## Setup Instructions
-1. Install WordPress locally for via TasteWP/InstaWP
+1. Install WordPress locally or via TasteWP/InstaWP
 2. Upload the theme to /wp-content/themes/
 3. Activate the theme
 4. Create sample products
