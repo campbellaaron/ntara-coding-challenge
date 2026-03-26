@@ -23,7 +23,7 @@ Custom WP theme built for Ntara as a coding challenge. Implements a storefront t
 - "Price" meta field
 - Product Grid (12 per page)
 - Pagination
-- Search functionality (Not native WP search either)
+- Custom search/filter UI built on top of WordPress core query behavior
 - Category filtering
 - Sorting: 
     - Price (low -> high, high -> low)
